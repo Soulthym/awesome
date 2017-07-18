@@ -10,9 +10,12 @@ local beautiful = require("beautiful")
 -- Notification library
 local naughty = require("naughty")
 local menubar = require("menubar")
--- Battery widget
+-- THESE ARE FROM
+-- https://github.com/deficient/volume-control.git
+-- https://github.com/deficient/battery-widget.git
+-- Battery widget -- OWN
 local battery_widget = require("battery-widget")
--- Volume Widget
+-- Volume Widget -- OWN
 local volume_control = require("volume-control")
 
 -- Load Debian menu entries
