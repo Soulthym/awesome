@@ -10,7 +10,7 @@ local beautiful = require("beautiful")
 -- Notification library
 local naughty = require("naughty")
 local menubar = require("menubar")
--- THESE ARE FROM
+-- THESE ARE FROM (install in ~/.config/awesome)
 -- https://github.com/deficient/volume-control.git
 -- https://github.com/deficient/battery-widget.git
 -- Battery widget -- OWN
